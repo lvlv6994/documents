@@ -1,0 +1,33 @@
+* hello world
+** hello world
+*** hello world
+*** hello javascript
+
+#+begin_src javascript
+  function helloworld(){
+      console.log("hello world")
+  }
+  helloworld()
+#+end_src
+
+* hello java
+
+#+begin_src java
+  import java.util.Map;
+  import java.util.HashMap;
+
+  pulic class HelloWorld{
+      static Map<String,Object> map = new HashMap<String,Object>();
+      static {
+          map.put("hello","world");
+      }
+      public static void main(String[] args){
+          System.out.println("hello world");
+      }
+  }
+#+end_src
+
+* hello bash
+#+begin_src bash
+  echo "hello world"
+#+end_src

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e74c96cec46bc403",
+    "type": "split",
+    "children": [
+      {
+        "id": "3261258d1d3db5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba3a1260894cc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98d4628062447f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "141bddb0daceb882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0bf5833a6bceb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c64d21c31710dca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f79f0ab6ce8ced7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558.5110359191895,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7df701f0836becba",
+    "type": "split",
+    "children": [
+      {
+        "id": "70fe70ad24f6c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d80e43fa9b3229a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-05-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "988e03d2371f5a16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1335453e8671ee2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7b78ce347f1948a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-19.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9ba3a1260894cc5b",
+  "lastOpenFiles": [
+    "hello.md",
+    "2024-05-19.md",
+    "百度.md",
+    "学习《毛泽东选集》  第5卷的体会 -- 1977 -- 乌鲁木齐：新疆人民出版社 -- 11431528 -- e2f95f6676cd0be0cc66145c13f6fa3e -- Anna’s Archive.pdf",
+    "2010.07115.pdf",
+    "6CC12DA008414A35BD4D86DD53CA8513.pdf",
+    "《红太阳是怎样升起的：延安整风运动的来龙去脉》.pdf",
+    "吴启讷：蒋经国，“台毒”的摩西？.md",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "《邓小平文选》（第一卷）【文字版】 -- 邓小平 -- 1, 1994 -- 人民出版社 -- 621ccea34d16222e1634a34c45a384aa -- Anna’s Archive.pdf",
+    "消费对经济拉动作用逐步增强__中国政府网.pdf",
+    "亚历山大·埃特金德：自我殖民：21世纪的帝国拼图.pdf",
+    "Mac 键盘快捷键 - 官方 Apple 支持 (中国).pdf",
+    "d20110724134408500.pdf",
+    "从毛泽东思想到科学发展观-毛泽东思想与中国特色社会主义理论体系关系探源.pdf",
+    "未命名.canvas",
+    "未命名.md",
+    "吴启讷：蒋经国，”台毒“的摩西？.canvas",
+    "未命名 1.canvas",
+    "hello world.md"
+  ]
+}
