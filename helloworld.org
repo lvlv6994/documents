@@ -18,6 +18,9 @@
 
   pulic class HelloWorld{
       static Map<String,Object> map = new HashMap<String,Object>();
+      static Map<String,Object> map1 = new HashMap<String,Object>();
+      static Map<String,Object> map2 = new HashMap<String,Object>();
+      
       static {
           map.put("hello","world");
       }
@@ -29,5 +32,6 @@
 
 * hello bash
 #+begin_src bash
+  echo "hello world"
   echo "hello world"
 #+end_src
