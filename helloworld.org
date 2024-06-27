@@ -2,9 +2,12 @@
 ** hello world
 *** hello world
 *** hello javascript
+*** hello python
 
 #+begin_src javascript
   function helloworld(){
+      console.log("hello world")
+      console.log("hello world")
       console.log("hello world")
   }
   helloworld()
